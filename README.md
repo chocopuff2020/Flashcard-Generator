@@ -1,8 +1,10 @@
-#HOW IT WORKS: 
-    _ ##BASIC Card## --> ```node game.js basic``` 
-                 --> Answer to the prompted messages
-                 --> The answers will be saved in basic.txt file
-    _ ##CLOZE Card## --> ``` node game.js cloze```
-                 --> Answer to the prompted messages 
-                 --> If the partial phrase does not include "..." instead of the cloze words --> Throw Error Message
-                 --> If everything is filled in the correct format --> Save the answers to cloze.txt file.
+<h1>HOW IT WORKS:</h1> 
+    <div>
+    _ <h2> BASIC Card </h2> --> ```node game.js basic``` <br>
+                 --> Answer to the prompted messages <br>
+                 --> The answers will be saved in basic.txt file <br>
+    _  <h2>CLOZE Card  </h2> --> ``` node game.js cloze```<br>
+                 --> Answer to the prompted messages  <br>
+                 --> If the partial phrase does not include "..." instead of the cloze words --> Throw Error Message <br>
+                 --> If everything is filled in the correct format --> Save the answers to cloze.txt file.<br>
+    </div>
