@@ -1,0 +1,14 @@
+{
+  "text": "Today is Sunday",
+  "cloze": "Sunday",
+  "partial": "Today is ..."
+}{
+  "text": "My favorite food is avocado",
+  "cloze": "avocado",
+  "partialInput": "My favorite food is ..."
+}
+{
+  "text": "Matcha is from Japan",
+  "cloze": "Japan",
+  "partialInput": "Matcha is from ..."
+}

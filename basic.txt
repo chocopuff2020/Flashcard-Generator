@@ -1,0 +1,13 @@
+{
+  "front": "What's holiday today?",
+  "back": "Easter"
+}{
+  "front": "How often do you eat apples? ",
+  "back": "Not very often"
+}{
+  "front": "How many fingers do you have? ",
+  "back": "ten"
+}{
+  "front": "What is the color of an apple? ",
+  "back": "red"
+}
